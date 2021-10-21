@@ -4,4 +4,6 @@ The 3D Spatial Mapping device is an embedded system which creates a 3D represent
 
 The languages used to process the data achieved through I2C and UART sertial communication is Python. The libraries used are Open3d, PySerial, and NumPy. More information about this project is availible in a data sheet created for this device named 3D Spatial Mapping Device Data Sheet.pdf. 
 
-![Screen Shot 2021-10-21 at 7 46 00 PM](https://user-images.githubusercontent.com/70975819/138371858-3ff606f2-3ee7-46d1-8381-b62599e36fcb.png)
+The following diagram shows you how to setup up the hardware of the device: 
+
+![Screen Shot 2021-10-21 at 7 46 00 PM](https://user-images.githubusercontent.com/70975819/138372056-01fb7924-d06f-4524-9130-4a4a71deaf92.png)
