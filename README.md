@@ -20,7 +20,7 @@ To collect data, you can just download the Keil folder and open the Keil project
 Here is a demo of collecting the data: 
 
 
-Now all you do is run Open3d.py to see the 3d mapped environment around the device. Since I placed the device in a show box, I was able to get the following output. 
+Now all you do is run Open3d.py to see the 3d mapped environment around the device. Since I placed the device in a shoe box, I was able to get the following output. 
 
 <img width="797" alt="Screen Shot 2021-10-21 at 8 02 18 PM" src="https://user-images.githubusercontent.com/70975819/138372874-0568828b-5645-4060-9067-b779c5098113.png">
 
